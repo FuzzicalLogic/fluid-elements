@@ -1,0 +1,29 @@
+{
+  "name": "liquid-elements",
+  "version": "0.1.0",
+  "description": "Elements specially designed for easing the implementation of and replicating basic uniform functionality in web and nativeweb applications.",
+  "keywords": [
+    "web-components",
+    "polymer",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FuzzicalLogic/liquid-elements.git"
+  },
+  "dependencies": {
+    "liquid-hotkey-event": "FuzzicalLogic/liquid-hotkey-event#~0.1.0",
+  },
+  "homepage": "https://github.com/FuzzicalLogic/liquid-elements",
+  "authors": [
+    "Donald Atkinson"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "index.html"
+}
