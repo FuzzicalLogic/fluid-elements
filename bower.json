@@ -4,7 +4,7 @@
   "description": "Elements specially designed for easing the implementation of and replicating basic uniform functionality in web and nativeweb applications.",
   "keywords": [
     "web-components",
-    "polymer",
+    "polymer"
   ],
   "repository": {
     "type": "git",
