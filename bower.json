@@ -11,7 +11,7 @@
     "url": "git://github.com/FuzzicalLogic/liquid-elements.git"
   },
   "dependencies": {
-    "liquid-hotkey-event": "FuzzicalLogic/liquid-hotkey-event#~0.1.0",
+    "liquid-hotkey-event": "FuzzicalLogic/liquid-hotkey-event#~0.1.0"
   },
   "homepage": "https://github.com/FuzzicalLogic/liquid-elements",
   "authors": [
